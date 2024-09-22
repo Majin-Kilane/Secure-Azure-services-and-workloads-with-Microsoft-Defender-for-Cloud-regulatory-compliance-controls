@@ -2,8 +2,7 @@
 
 ## Objective
 
-The lab project aimed to setting up security and compliance controls, monitoring security posture, and
-generate compliance reports for Azure services.
+The lab project aimed at setting up security and compliance controls, monitoring security posture, and generating compliance reports for Azure services
 
 ### Skills Learned
 
